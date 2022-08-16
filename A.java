@@ -23,7 +23,7 @@ public static void main(String[] args) {
 	a.a();
 	a.b();
 	a.c();
-	a.e();
+	a.d();
 	
 }
 
